@@ -6,6 +6,7 @@
     "resources": [
         {
             "name": "site",
+            "path": "site/exemple-valide.csv",
             "profile": "tabular-data-resource",
             "format": "csv",
             "mediatype": "text/csv",
@@ -15,6 +16,7 @@
         },
         {
             "name": "channel",
+            "path": "channel/exemple-valide.csv",
             "profile": "tabular-data-resource",
             "format": "csv",
             "mediatype": "text/csv",
@@ -24,6 +26,7 @@
         },
         {
             "name": "measure",
+            "path": "measure/exemple-valide.csv",
             "profile": "tabular-data-resource",
             "format": "csv",
             "mediatype": "text/csv",
