@@ -14,6 +14,8 @@ Dans le cadre des travaux de l’équipe du Point d’accès national et de la
 
 Trois ateliers ouverts (le 23/04/2021, le 17/06/2021, et le 28/09/2021) ont permis sa production. Il a notamment été établi après des entretiens avec différents fournisseurs de solutions de comptage ([Eco-Compteur](https://www.eco-compteur.com/), [Metrocount](https://metrocount.com/fr/), [Alyce](https://alyce.fr/), [Sterela](http://www.sterela.fr/), [TagMaster](https://tagmaster.com/), [Wintics](https://wintics.com/fr/)) afin de nous assurer que les champs proposés répondaient bien à leurs besoins et compétences. Ce schéma permet de recenser les sites de comptages et de comptabiliser la fréquentation d'infrastructures. 
 
+Pour être guidé pas à pas, merci de vous rendre sur la [documentation officielle de transport.data.gouv.fr](https://doc.transport.data.gouv.fr/producteurs/comptage-des-mobilites), Point d'accès national aux données de transport.
+
 ## Cadre juridique
 
 En dehors des données du trafic routier couvertes par la Directive STI, l’ouverture des données selon le schéma de comptage des mobilités, notamment pour les mobilités douces, relève du seul cadre général de l'ouverture des données publiques définie dans le livre III du Code des relations entre le public et l'administration (CRPA).

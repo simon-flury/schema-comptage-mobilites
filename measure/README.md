@@ -30,7 +30,7 @@ Les producteurs pourront :
 - publier sur un portail local ou régional et s'assurer que les données publiées sont bien moissonnées et référencées sur data.gouv.fr.
 Nous préconisons aux producteurs de données de publier leurs fichiers avec la règle de nommage suivante : comptagemobilites_measure_nom.csv avec nom étant le nom de la collectivité productrice des données, par exemple comptagemobilite_measure_Baix.csv
 
-Nous recommandons de publier le fichier channel dans le même jeu de données que les fichiers site et measure. Ces trois fichiers s'articulent entre eux par des identifiants.
+Nous recommandons de publier le fichier measure dans le même jeu de données que les fichiers site et channel. Ces trois fichiers s'articulent entre eux par des identifiants.
 
 ## Utilisation de notre outil d'aide à la saisie et du validateur
 
