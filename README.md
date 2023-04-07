@@ -16,9 +16,7 @@ Trois ateliers ouverts (le 23/04/2021, le 17/06/2021, et le 28/09/2021) ont perm
 
 ## Cadre juridique
 
-L’ouverture des données sur le comptage des mobilités ne répond à aucune obligation réglementaire et n'est pas encadrée par le Règlement Européen (UE 2017 1926) ni par la Loi d'Orientation des Mobilités.
-
-Les collectivités harmonisent et publient donc ces données librement.  
+En dehors des données du trafic routier couvertes par la Directive STI, l’ouverture des données selon le schéma de comptage des mobilités, notamment pour les mobilités douces, relève du seul cadre général de l'ouverture des données publiques définie dans le livre III du Code des relations entre le public et l'administration (CRPA).
 
 ## Finalité
 

@@ -4,7 +4,7 @@ Spécifications du fichier d'échange relatif aux comptages des mobilités : fic
 
 Le schéma de comptage des mobilités est structuré en trois notions distinctes : les sites, les channels, et les mesures.
 Chacune de ces notions est retranscrite dans son propre fichier :
-les sites vont dans un fichier “sites.csv” avec une ligne par site les channels dans un fichier “channels.csv” (idem), les mesures dans un fichier “measures.csv” (idem)
+les sites vont dans un fichier “sites.csv” avec une ligne par site les channels dans un fichier “channels.csv” (idem), les mesures dans un fichier “measures.csv” (idem).
 
 Ce schéma est spécifique à la notion de channel. 
 La notion de "channel" a été introduite pour faire le lien entre la réalité immuable physique du site, et les mesures fournies par des “compteurs physiques”.
