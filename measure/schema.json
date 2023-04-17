@@ -20,12 +20,12 @@
       {
          "title": "Fichier valide (CSV)",
          "name": "exemple-valide-csv",
-         "path": "https://raw.githubusercontent.com/etalab/schema-comptage-mobilites/v0.2.0/measure/exemple-valide.csv"
+         "path": "https://raw.githubusercontent.com/etalab/schema-comptage-mobilites/v0.2.3/measure/exemple-valide.csv"
       },
       {
          "title": "Deuxième fichier valide (CSV)",
          "name": "exemple-valide-eco-compteur.csv",
-         "path": "https://raw.githubusercontent.com/etalab/schema-comptage-mobilites/v0.2.0/measure/exemple-valide-eco-compteur.csv"
+         "path": "https://raw.githubusercontent.com/etalab/schema-comptage-mobilites/v0.2.3/measure/exemple-valide-eco-compteur.csv"
       }
    ],
    "created": "2021-11-15",

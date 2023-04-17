@@ -31,6 +31,20 @@ La base présente plusieurs cas d’usage : elle recense les sites de comptage d
 
 Les jeux de données seront publiés au format CSV UTF-8 avec séparateur virgule ",". Certains champs sont obligatoires et d'autres optionnels. Les champs obligatoires doivent être complétés. Les champs optionnels peuvent être vides si la donnée n’est pas disponible. La colonne doit toutefois être présente.
 
+## Utilisation de notre outil d'aide à la saisie et du validateur
+
+Pour être guidé pas à pas, merci de vous rendre sur la [documentation officielle de transport.data.gouv.fr](https://doc.transport.data.gouv.fr/producteurs/comptage-des-mobilites), Point d'accès national aux données de transport.
+
+Pour faciliter le remplissage des données, Etalab met à disposition un générateur CSV conforme au schéma de données, vous permettant de remplir les différents champs demandés. Cet outil vous permet de vous assurer que les données que vous remplissez sont au bon format. Pour l'utiliser, rendez-vous sur [https://publier.etalab.studio](https://publier.etalab.studio), vous pourrez alors publier votre fichier à partir d'un :
+
+- CSV déjà existant ;
+- formulaire ;
+- tableur (encore en expérimentation).
+
+Une fois vos données chargées ou remplies, un formulaire vous proposera de les publier sur data.gouv.fr.
+
+Avant de publier vos données, vous pouvez vérifier qu'elles sont valides depuis [le validateur Validata](https://validata.fr/) en choisissant le schéma associé au fichier dans la partie "schema.data.gouv.fr".
+
 ## Publication
 
 Dans le but de maintenir à jour un répertoire des compteurs de vélos en France, les collectivités sont invitées à transmettre systématiquement les données relatives aux compteurs sur leur territoire. Elles peuvent ajouter le mot-clef `comptage-mobilites` lors de la publication du jeu de données dans leur espace de publication (portail local ou régional) ou directement sur data.gouv.fr.
